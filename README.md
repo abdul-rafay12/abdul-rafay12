@@ -1,12 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:8B5CF6,100:06B6D4&height=260&section=header&text=ABDUL%20RAFAY&fontSize=72&fontColor=ffffff&fontAlign=50&fontAlignY=42&animation=twinkling&desc=%3E%20NEURAL_LINK%20ESTABLISHED%20//%20FULL%20STACK%20%C3%97%20AI%20%C3%97%20CLOUD&descSize=18&descAlignY=68&stroke=FF2E97&strokeWidth=2" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=1000&lines=ABDUL+RAFAY;SOFTWARE+ENGINEER;AI+ENGINEER;FULL+STACK+DEVELOPER;BUILDING+AI+AGENTS;DESIGNING+RAG+SYSTEMS;AUTOMATING+WORKFLOWS" alt="Typing SVG" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=800&lines=%5BOK%5D+Booting+MERN+%2B+Flutter+core...;%5BOK%5D+Loading+LangChain+%2F+LangGraph+modules...;%5BOK%5D+Connecting+to+GCP+%2F+Azure+grid...;%5BOK%5D+Vector+memory+online+(pgvector)...;%5B%21%5D+Status%3A+OPEN+TO+OPPORTUNITIES" alt="Boot sequence" />
+<div align="center"> <img src="https://raw.githubusercontent.com/abdul-rafay12/abdul-rafay12/main/bannergithub.gif" width="100%" alt="Abdul Rafay banner" /> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=1000&lines=ABDUL+RAFAY;SOFTWARE+ENGINEER;AI+ENGINEER;FULL+STACK+DEVELOPER;BUILDING+AI+AGENTS;DESIGNING+RAG+SYSTEMS;AUTOMATING+WORKFLOWS" alt="Typing SVG" /> <br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=800&lines=%5BOK%5D+Booting+MERN+%2B+Flutter+core...;%5BOK%5D+Loading+LangChain+%2F+LangGraph+modules...;%5BOK%5D+Connecting+to+GCP+%2F+Azure+grid...;%5BOK%5D+Vector+memory+online+(pgvector)...;%5B%21%5D+Status%3A+OPEN+TO+OPPORTUNITIES" alt="Boot sequence" />
 
 <br><br>
 
