@@ -36,15 +36,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:06B6D4&height=2&section=header"/>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=1800&pause=700&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Multi-Agent+Systems;Retrieval-Augmented+Generation+(RAG);Workflow+Automation;Cloud-Native+Applications;AI+Powered+Products" />
+</p>
+
 ```console
-> whoami
-
-Abdul Rafay
-
-Software Engineer
-AI Engineer
-Full Stack Developer
-
 
 > current_specialization
 
